@@ -7,10 +7,20 @@
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=alvydepositar&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=alvydepositar&theme=shadow_blue&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alvydepositar&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+## 📊 GitHub Stats  
+
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=yourgithub&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithub&layout=compact&theme=tokyonight" alt="Top Languages" />
+</td>
+</tr>
+</table>
 
 ---
 
