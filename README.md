@@ -9,18 +9,9 @@
 
 ## 📊 GitHub Stats  
 
-<table>
-<tr>
-<td>
 <img src="https://github-readme-stats.vercel.app/api?username=alvydepositar&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</td>
-</tr>
-<tr>
-<td colspan="2">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvydepositar&layout=compact&theme=tokyonight" alt="Top Languages" />
-</td>
-</tr>
-</table>
+
 
 ---
 
