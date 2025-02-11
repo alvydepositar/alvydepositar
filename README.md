@@ -15,7 +15,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=alvydepositar&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </td>
 <td>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alvydepositar&theme=tokyonight" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?username=alvydepositar&theme=tokyonight" alt="GitHub Streak" />
 </td>
 </tr>
 <tr>
