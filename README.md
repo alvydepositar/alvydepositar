@@ -9,7 +9,7 @@
 
 ## 📊 GitHub Stats  
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: stretch; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: stretch; gap: 18px;">
   <img src="https://github-readme-stats.vercel.app/api?username=alvydepositar&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvydepositar&layout=compact&theme=tokyonight" alt="Top Languages" height="150px"/>
 </div>
