@@ -7,15 +7,6 @@
 
 ---
 
-## ⚡ GitHub Stats  
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: stretch; gap: 25px">
-  <img src="https://github-readme-stats.vercel.app/api?username=alvydepositar&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvydepositar&layout=compact&theme=tokyonight" alt="Top Languages" height="150px"/>
-</div>
-
----
-
 ### 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvy-depositar/)   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/alvydepositar](https://github.com/alvydepositar))  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvyydepositar@gmail.com)  
 
